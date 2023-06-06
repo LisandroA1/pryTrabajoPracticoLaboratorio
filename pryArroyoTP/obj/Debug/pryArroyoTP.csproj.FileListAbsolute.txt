@@ -1,0 +1,11 @@
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoTP\bin\Debug\pryArroyoTP.exe.config
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoTP\bin\Debug\pryArroyoTP.exe
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoTP\bin\Debug\pryArroyoTP.pdb
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoTP\obj\Debug\pryArroyoTP.csproj.AssemblyReference.cache
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoTP\obj\Debug\pryArroyoTP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoTP\obj\Debug\pryArroyoTP.frmListado.resources
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoTP\obj\Debug\pryArroyoTP.Properties.Resources.resources
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoTP\obj\Debug\pryArroyoTP.csproj.GenerateResource.cache
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoTP\obj\Debug\pryArroyoTP.csproj.CoreCompileInputs.cache
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoTP\obj\Debug\pryArroyoTP.exe
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoTP\obj\Debug\pryArroyoTP.pdb
